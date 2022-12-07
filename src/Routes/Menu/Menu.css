@@ -1,0 +1,42 @@
+.menu-container {
+  max-width: 1150px;
+  width: calc(100% - 2rem);
+}
+
+.card {
+  padding: 15px;
+  transition: all 0.3s ease-in-out;
+  margin-bottom: 20px;
+}
+.card-img {
+  aspect-ratio: auto 1536 / 192;
+  height: 192px;
+}
+.card-img-overlay {
+  position: absolute;
+  top: 10%;
+  right: 0;
+  padding: 2px 18px 2px 12px;
+  border-radius: 4px 0 0 4px;
+
+  color: #fff;
+  box-shadow: 0 2px 11px 0 rgb(0 0 0 / 20%);
+  background: linear-gradient(202.75deg, #54b435, #82cd47) !important;
+}
+
+.card-title-icon {
+  margin-right: 15px;
+  width: 45px;
+}
+.card-title-p {
+  color: #292f48;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-rating-icon {
+  height: 16.5px;
+  width: 15.67px;
+  border-radius: 1.5021px;
+}

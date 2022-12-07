@@ -1,0 +1,83 @@
+[
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/meta/_cover_1582610775611.png",
+    "discount": " 65% OFF",
+    "title": "Pizza Gang - Dhanmondi",
+    "rating": "785",
+    "price": "100",
+    "type": "Fast Food",
+    "region": "Italian"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/pizza_hut/meta/pizza_hut_cover_1646635997396.jpeg",
+    "discount": " HUT100, 100TK OFF",
+    "title": "Double chesse pizza",
+    "rating": "800",
+    "price": "600",
+    "type": "Fast Food",
+    "region": "Italian"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/burger_fiesta/meta/burger_fiesta_cover_1630836928067.jpeg",
+    "discount": "10% OFF",
+    "title": "Burger Fiesta - Mohammadpur",
+    "rating": "540",
+    "price": "350",
+    "type": "Fast Food",
+    "region": "American"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/meta/kudos_cover_1639914186733.jpeg",
+    "discount": "20Tk OFF",
+    "title": "Kudos - Dhanmondi",
+    "rating": "160",
+    "price": "220",
+    "type": "Fast Food",
+    "region": "Global"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/american_burger/meta/american_burger_cover_1641201119576.jpeg",
+    "discount": "Buy one get one",
+    "title": "American Burger - Dhanmondi",
+    "rating": "221",
+    "price": "100",
+    "type": "Fast Food",
+    "region": "American"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/shad_tehari_ghar/meta/shad_tehari_ghar_cover.jpg",
+    "discount": "10% OFF",
+    "title": "Sobhanbag Tehari Ghar - Dhanmondi",
+    "rating": "556",
+    "price": "100",
+    "type": "Heavy Food",
+    "region": "Bengali"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/shad_tehari_ghar/meta/shad_tehari_ghar_cover.jpg",
+    "discount": "30% OFF",
+    "title": "Shad Tehari Ghar - Lalmatia",
+    "rating": "481",
+    "price": "120",
+    "type": "Heavy Food",
+    "region": "Bengali"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/cheez_on_dough/meta/cheez_on_dough_cover_1655023504728.jpeg",
+    "discount": "50% OFF",
+    "title": "Cheez On Dough - Dhanmondi",
+    "rating": "1236",
+    "price": "450",
+    "type": "Fast Food",
+    "region": "American"
+  },
+  {
+    "banner": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/foodswiggy/meta/foodswiggy_cover_1626342880327.jpeg",
+    "discount": "10% OFF",
+    "title": "Foodswiggy - Lalmatia",
+    "rating": "150",
+    "price": "300",
+    "type": "Fast Food",
+    "region": "Italian"
+  }
+]
