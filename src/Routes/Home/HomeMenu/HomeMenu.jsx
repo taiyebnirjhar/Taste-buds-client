@@ -8,7 +8,7 @@ import icon from "../../../assets/img/icon.png";
 function HomeMenu({ banner, title, region, type, price, rating, id }) {
   return (
     <>
-      <div className="" id="menu">
+      <div className="min-w-min max-w-max" id="menu">
         <PhotoProvider>
           <PhotoView src={banner}>
             <img src={banner} className="rounded-t-lg " alt="banner" />
